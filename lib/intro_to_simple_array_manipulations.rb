@@ -7,7 +7,7 @@ def using_unshift(array, string)
   
 end
 
-def using_pop
+def using_pop(arrays)
   array = []
   element = array.pop
   p element 
