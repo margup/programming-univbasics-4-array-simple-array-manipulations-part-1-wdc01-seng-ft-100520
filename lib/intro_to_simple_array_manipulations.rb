@@ -9,8 +9,8 @@ end
 
 def using_pop(array)
   array = []
-  elementpop = array.pop
-  element
+  element_pop = array.pop
+  element_pop
 end
 
 def pop_with_args
