@@ -15,7 +15,7 @@ def using_pop(parameter)
 end
 
 def pop_with_args(parameter)
-  parameter = Array.new
+  parameter = Array.new(6)
   element = parameter.pop(2)
   p element
   
