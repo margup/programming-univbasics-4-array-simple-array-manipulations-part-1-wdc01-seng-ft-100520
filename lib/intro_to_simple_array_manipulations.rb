@@ -14,7 +14,10 @@ def using_pop(parameter)
   
 end
 
-def pop_with_args
+def pop_with_args(parameter)
+  parameter = Array.new
+  element = parameter.pop(2)
+  p element
   
 end
 
