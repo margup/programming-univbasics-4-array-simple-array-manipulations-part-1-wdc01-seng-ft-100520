@@ -9,8 +9,7 @@ end
 
 def using_pop(array)
   array = Array.new
-  element_pop = array.pop
-  p element_pop
+  array.pop
   
 end
 
