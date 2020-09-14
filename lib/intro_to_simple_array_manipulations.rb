@@ -12,8 +12,7 @@ def using_pop(element)
   element_pop = array.pop 
   p element_pop
   
- 
-  
+
 end
 
 def pop_with_args(parameter)
