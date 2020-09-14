@@ -22,11 +22,15 @@ def pop_with_args(array)
   
 end
 
-def using_shift
+def using_shift(array)
+  element = array.shift
+  p element
   
 end
 
-def shift_with_args
+def shift_with_args(array)
+  element = array.shift(2)
+  p element
   
 end
 
